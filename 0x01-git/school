@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir king
+echo "i am a king" >>king/king1
